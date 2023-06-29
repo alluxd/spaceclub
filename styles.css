@@ -222,6 +222,9 @@ article h2 span {
         margin: 20px auto;
         display: block;
     }
+    nav li {
+        position: relative;
+    }
 }
 
 @media screen and (max-width: 560px) {
